@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=220&section=header&text=Muhammad%20Hamthan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CTO%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Agents%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=220&section=header&text=Muhammad%20Hamthan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Team%20Lead%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Agents%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://kairoxaitech.com"><img src="https://img.shields.io/badge/🌐_KairoX_AI_Tech-4F46E5?style=for-the-badge" alt="KairoX"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-hamthan-294030256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:muhammadhamthan660@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=muhammadhamthan&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Based_in-India_🇮🇳-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💼_Role-CTO_&_Team_Lead-4f46e5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼_Role-Team_Lead_&_Architect-4f46e5?style=flat-square"/>
   <img src="https://img.shields.io/badge/🧠_Focus-AI_Agents_•_ERP_•_Cloud-06b6d4?style=flat-square"/>
   <img src="https://img.shields.io/badge/🟢_Status-Building_in_Production-22c55e?style=flat-square"/>
 </p>
@@ -29,7 +29,7 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=muhammadhamthan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=4f46e5&include_all_commits=true&count_private=true" alt="stats"/>
 
-I'm **Muhammad Hamthan** — **CTO & Principal Backend Architect at [KairoX AI Tech](https://kairoxaitech.com)** 🚀
+I'm **Muhammad Hamthan** — **Team Lead & Principal Backend Architect at [KairoX AI Tech](https://kairoxaitech.com)** 🚀
 
 I lead an engineering team building **AI-first business software**: manufacturing ERPs, CRMs and autonomous AI agents — from database schema all the way to the production server.
 
@@ -44,7 +44,7 @@ I lead an engineering team building **AI-first business software**: manufacturin
 
 ```python
 class Hamthan:
-    role       = "CTO • Team Lead • Full-Stack & AI Engineer"
+    role       = "Team Lead • Full-Stack & AI Engineer"
     company    = "KairoX AI Tech 🇮🇳"
     backend    = ["FastAPI", "SQLAlchemy 2.0 (async)", "Pydantic v2", "Node.js", "TypeScript"]
     frontend   = ["Next.js", "React"]
@@ -209,8 +209,8 @@ Dockerized deployments on AWS, Nginx + Gunicorn/Uvicorn, SSL, staging/prod envir
   💡 Open to collaborating on <b>AI agents</b>, <b>LLM products</b>, <b>ERP / SaaS platforms</b> and <b>cloud architecture</b>.
   <br/><br/>
   <a href="https://kairoxaitech.com"><img src="https://img.shields.io/badge/Visit-kairoxaitech.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Say-Hello_👋-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-hamthan-294030256/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammadhamthan660@gmail.com"><img src="https://img.shields.io/badge/Say-Hello_👋-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
