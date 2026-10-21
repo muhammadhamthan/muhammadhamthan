@@ -180,12 +180,13 @@ Dockerized deployments on AWS, Nginx + Gunicorn/Uvicorn, SSL, staging/prod envir
   <img height="170" src="https://streak-stats.demolab.com?user=muhammadhamthan&theme=tokyonight&hide_border=true&background=0f172a&ring=4f46e5&fire=06b6d4&currStreakLabel=06b6d4" />
 </p>
 
+<h4 align="center">🐍 Contribution Snake</h4>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhamthan&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=06b6d4&line=4f46e5&point=ffffff&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadhamthan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadhamthan/muhammadhamthan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadhamthan/muhammadhamthan/output/github-snake.svg" />
+    <img width="95%" alt="contribution snake" src="https://raw.githubusercontent.com/muhammadhamthan/muhammadhamthan/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
